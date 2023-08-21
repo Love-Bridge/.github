@@ -2,6 +2,9 @@
 ### ***2023 LikeLion Univ 11th Hackaton - Team LoveBridge***
 <img width="1446" src="https://github.com/Love-Bridge/.github/assets/74898231/fd1c62e5-583a-4617-af85-9517ae1e6ae3">
 
+<br/>
+<br/>
+
 ## 1. 프로젝트 기획 배경
 <img width="1446" src="https://github.com/Love-Bridge/.github/assets/74898231/206dbcef-98f0-428d-9dd7-8628de4889b5">
 <img width="1446" src="https://github.com/Love-Bridge/.github/assets/74898231/0146626e-e7da-43a5-bafc-017016a4336c">
