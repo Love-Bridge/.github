@@ -62,7 +62,8 @@
 <br/>
 
 ## 6. 시연영상
-(업로드 예정)
+https://www.youtube.com/embed/6vd8Hy9mupQ
+
 
 <br/>
 <br/>
