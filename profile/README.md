@@ -1,6 +1,8 @@
 # Bridge
 ### ***2023 LikeLion Univ 11th Hackaton - Team LoveBridge***
-<img width="1446" src="https://github.com/Love-Bridge/.github/assets/74898231/fd1c62e5-583a-4617-af85-9517ae1e6ae3">
+<img width="1446" src="https://github.com/Love-Bridge/.github/assets/102468718/9f999fa6-5793-41b9-9b17-e1642b395379">
+
+
 
 <br/>
 <br/>
