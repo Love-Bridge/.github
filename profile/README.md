@@ -2,6 +2,7 @@
 ### ***2023 LikeLion Univ 11th Hackaton - Team LoveBridge***
 <img width="1446" src="https://github.com/Love-Bridge/.github/assets/102468718/9f999fa6-5793-41b9-9b17-e1642b395379">
 
+[시연 영상 보러 가기](https://www.youtube.com/embed/6vd8Hy9mupQ, "youtube 영상 보러가기")
 
 
 <br/>
@@ -61,11 +62,5 @@
 <br/>
 <br/>
 
-## 6. 시연영상
-https://www.youtube.com/embed/6vd8Hy9mupQ
-
-
-<br/>
-<br/>
-
+##
 <img width="1446" src="https://github.com/Love-Bridge/.github/assets/74898231/1a3bc677-a756-41bd-a850-f75b2574db3b">
